@@ -133,4 +133,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-Hecho con ❤️ por [Tu Nombre] - ¡Disfruta del cine!
+Realizado por José Imhoff - ¡Disfruta del cine!
